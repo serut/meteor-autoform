@@ -225,6 +225,7 @@ Package.onUse(function(api) {
 });
 
 Package.onTest(function (api) {
+  api.use('lmieulet:meteor-coverage@0.7.1'); // Coverage dependency
   api.use(['aldeed:autoform', 'tinytest', 'underscore', 'mongo']);
   api.use('momentjs:moment', 'client');
   api.addFiles(['tests/utility-tests.js', 'tests/autoform-tests.js']);

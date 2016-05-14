@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/aldeed/meteor-autoform.svg)](https://travis-ci.org/aldeed/meteor-autoform)
+[![Build Status](https://travis-ci.org/serut/meteor-autoform.svg)](https://travis-ci.org/serut/meteor-autoform)
+[![Coverage Status](https://coveralls.io/repos/github/serut/meteor-autoform/badge.svg?branch=master)](https://coveralls.io/github/serut/meteor-autoform?branch=master)
 
 AutoForm
 =========================
